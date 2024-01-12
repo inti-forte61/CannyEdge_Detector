@@ -326,6 +326,7 @@ public class CannyEdge_Detector{
 			return;
 		}
 // ----------- HysteresisThreshold -------------
+// hi!
 
 		return;
 	}
